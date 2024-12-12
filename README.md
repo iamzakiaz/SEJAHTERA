@@ -20,6 +20,6 @@ This app was developed by Team C242-PS307 Bangkit Capstone Project
 
 ## Repository
 
-1. [Machine Learning](link github)
-2. [Mobile Development](link github)
-3. [Cloud Computing](link github)
+1. [Cloud Computing](link github)
+2. [Machine Learning](link github)
+3. [Mobile Development](link github)
